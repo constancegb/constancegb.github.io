@@ -2,8 +2,8 @@
 layout: post
 title: Designing a custom skill for Alexa
 ---
-
 In a precedent post, I wrote about my experience on developing a Trivia skill for Alexa, following an Amazon-Developers-made tutorial. Today we take it to the next level by developing our own non-trivia skill from scratch. Specifically, this post intents to show you the underlying design process of the skill.
+
 
 
 **Coming up with a good skill idea**
@@ -17,6 +17,7 @@ The whole point of voice-interaction-based services is that it considerably simp
 What does this means for us, developers? When designing your Voice User Interface, you have to be able to deliver your service to the end user with a minimum of back and forth interactions with Alexa, otherwise the user will be confused and you will lose engagement. The best skills are able to do so with only one-level-deep interactions, meaning that the user directly gets the information he or she was looking for, without the need for Alexa to respond by asking for specifications relative to the user's request.
 
 With that in mind, I decided to develop a skill that would advise the user what to wear depending on the weather. Here, you notice that Alexa will be able to deliver the expected piece of information just upon the user's request.
+
 
 
 **Designing the voice interaction menu**
