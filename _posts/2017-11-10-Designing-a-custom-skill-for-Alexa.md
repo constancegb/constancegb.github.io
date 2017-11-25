@@ -22,7 +22,7 @@ With that in mind, I decided to develop a skill that would advise the user what 
 
 **Designing the voice interaction menu**
 
-Several choices have to be made relatively to the intent schema, slots & utterances. If you are unfamiliar with those terms, now might be a good time to read through these Amazon Developers resources on custom skills: https://developer.amazon.com/docs/custom-skills/understanding-custom-skills.html
+Several choices have to be made relatively to the intent schema, slots & utterances. If you are unfamiliar with those terms, now might be a good time to read through these [Amazon Developers resources on custom skills](https://developer.amazon.com/docs/custom-skills/understanding-custom-skills.html)
 
 In my case, the choices concerned the location and the date & time for which the dressing advice is wanted. I chose to have the location not as a slot, but set by default; this means that Alexa will use the Echo's location to access a specific weather forecast and deliver the dressing advice accordingly.
 

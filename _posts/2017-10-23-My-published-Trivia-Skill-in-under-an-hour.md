@@ -4,7 +4,7 @@ title: My published Trivia Skill in under an hour
 ---
 As part of my curriculum at Bloc as a Software Engineer, we had to create and then publish a Trivia Skill for Alexa. Alexa is Amazon's first operating artificial intelligence. Acting as a home automation device, it is capable of controlling other smart devices through vocal interaction. It can also set alarms, play music, read podcasts, give weather, play games, all using the voice.
 
-To build the skill, I used the following tutorial, made by Amazon Developers: https://github.com/alexa/skill-sample-nodejs-trivia
+To build the skill, I used this [tutorial](https://github.com/alexa/skill-sample-nodejs-trivia), made by Amazon Developers. 
 
 This tutorial is a little bit outdated, in the sense that the interface has been slightly redesigned since the tutorial was first published, but it is enough to get you started easily.
 
@@ -14,4 +14,4 @@ If you recently begin web development, and this is probably the case, getting yo
 
 >"The age of touch could soon come to an end. From smartphones and smartwatches, to home devices, to in-car infotainment systems, touch is no longer the primary user interface." - David Isbitski, Chief Evangelist, Alexa & Echo.
 
-And that is definitely a reason good enough to dive into this project. One might argue with that, but I think Vocal User Interfaces are the future, since it allow users to interact with the technology while keeping their hands on whatever they were busy with. It promises to be a huge competition between the industry leaders Amazon's Alexa, Google Home, the HomePod from Apple, and Microsoft and Facebook's future devices. 
+And that is definitely a reason good enough to dive into this project. One might argue with that, but I think Vocal User Interfaces are the future, since it allow users to interact with the technology while keeping their hands on whatever they were busy with. It promises to be a huge competition between the industry leaders Amazon's Alexa, Google Home, the HomePod from Apple, and Microsoft and Facebook's future devices.
