@@ -28,7 +28,7 @@ Later on, I worked as a freelancer for a few months. One my client was [Seaver](
 {:.center}
 ![]({{ site.baseurl }}/img/arion4.jpg)
 
-
+<br><br>
 
 One of my favorite project I work on was the end-of-study project I did in my Business School. It reunited both of the subjects I love working on: Entrepreneurship & Design. The project consisted in establishing a detailed Business Plan for the business idea of our choice, and I chose to develop a marketplace where brands could target digital influencers based on their audience demographics, and offer them marketing campaigns to be shared on their social networks. I called the platform *Creatorz*.
 
@@ -37,7 +37,7 @@ One of my favorite project I work on was the end-of-study project I did in my Bu
 
 {:.center}
 ![]({{ site.baseurl }}/img/creatorz1.png)
-
+<br>
 
 ## 'HOW IT WORKS' PAGE FOR BRANDS
 
@@ -45,7 +45,7 @@ One of my favorite project I work on was the end-of-study project I did in my Bu
  ![]({{ site.baseurl }}/img/creatorz2a.png) | ![]({{ site.baseurl }}/img/creatorz2b.png)
 
 This is the very project that took me into web development. Indeed, while scratching my head on designing the best User Experience possible, I came to realized all the logic needed behind the scenes, all the 'if the user clicks this' then 'display that' stuff; and something about it just gave me goosebumps. Just like that, web development and software engineering got me, and before I knew it, I was enrolled at Bloc, a Californian institute where I followed the Software Developer track.
-
+<br>
 
 ## THE PLATFORM
 
