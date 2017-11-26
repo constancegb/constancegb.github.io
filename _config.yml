@@ -13,7 +13,7 @@ theme_settings:
      <h1>Software Developer</h1>
      <p>I learnt coding at
         <a href="https://www.bloc.io/software-developer-track" target="_blank" style="color:orange;font-weight:bold">Bloc</a>
-        and specialized in Ruby on Rails. I am looking for a Paris-based 6-month internship. <a href="contact.md" style="color:orange;">Contact me.</a> </p>
+        and specialized in Ruby on Rails. I am looking for a Paris-based 6-month internship. <a href="contact/" style="color:orange;">Contact me.</a> </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
