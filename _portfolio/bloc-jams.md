@@ -11,7 +11,7 @@ short-description: Bloc Jams is a Spotify-like app for playing your favorite son
 
 ## Explanation
 
-**Bloc-Jams** is an online ad-free music player. It is the first project I completed as a young developer, having only a six-month experience in coding. The project is part of my curriculum at Bloc. It
+**Bloc-Jams** is an online ad-free music player. It is the first project I completed as a young developer, having only a six-month experience in coding. The project is part of my curriculum at Bloc.
 
 ## Problem
 
@@ -111,5 +111,5 @@ I will showcase and explain the feature that appears to me as the most interesti
 
 ## Conclusion
 
-Being my first project using Javascript and Angular, I definitely learned a lot on the basis of these two programming languages. As a math geek, my main difficulties were not so much about finding out the math logic behind a certain behavior I wanted to implement, no matter how difficult, but rather putting all the logic together, and linking 
+Being my first project using Javascript and Angular, I definitely learned a lot on the basis of these two programming languages. As a math geek, my main difficulties were not so much about finding out the math logic behind a certain behavior I wanted to implement, no matter how difficult, but rather putting all the logic together, and linking
 interrelated functions. This process is obviously difficult for young developers and especially with Angular, which I read about and was pleased to see that even developers with more experience still have difficulties to grasp its logic. After this project, I fell comfortable developing more complex apps.
