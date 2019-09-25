@@ -10,10 +10,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Software Developer</h1>
+     <h1>Frontend Developer & UX Designer</h1>
      <p>I learnt coding at
         <a href="https://www.bloc.io/software-developer-track" target="_blank" style="color:orange;font-weight:bold">Bloc</a>
-        and specialized in Node, React & MongoDB. <a href="contact/" style="color:orange;">Contact me.</a> </p>
+        and specialized in JavaScript. <a href="contact/" style="color:orange;">Contact me.</a> </p>
+    <p></p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
