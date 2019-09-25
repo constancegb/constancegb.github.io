@@ -14,7 +14,6 @@ theme_settings:
      <p>I learnt coding at
         <a href="https://www.bloc.io/software-developer-track" target="_blank" style="color:orange;font-weight:bold">Bloc</a>
         and specialized in JavaScript. <a href="contact/" style="color:orange;">Contact me.</a> </p>
-    <p></p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
