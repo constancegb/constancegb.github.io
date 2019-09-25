@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seaver - UX
-thumbnail-path: "img/creatorz1.png"
+thumbnail-path: "img/seaver0.png"
 short-description: An application for horse performance monitoring.
 
 ---
